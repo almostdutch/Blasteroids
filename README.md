@@ -6,10 +6,12 @@ The game uses Allegro library v.5 (an open source game development library) whic
 
 ## Game control
 The spaceship is controlled with keyboard:<br/>
-*up arrow* accelerate/move up<br/>
-*down arrow* decelerate (fast)<br/>
-*left arrow* rotate left<br/>
-*right arrow* rotate right<br/>
-*space bar* fire blast<br/>
-*do nothing* decelerate (slowly)<br/>
-*ESC* finish the game and close the GUI<br/>
+*up arrow*    - accelerate/move up<br/>
+*down arrow*  - decelerate (fast)<br/>
+*left arrow*  - rotate left<br/>
+*right arrow* - rotate right<br/>
+*space bar*   - fire blast<br/>
+*do nothing*  - decelerate (slowly)<br/>
+*ESC*         - finish the game and close the GUI<br/>
+
+## Gameplay screen shots
