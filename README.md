@@ -15,3 +15,7 @@ The spaceship is controlled with the keyboard:<br/>
 *ESC*         - finish the game and close the GUI<br/>
 
 ## Gameplay screen shots
+![gamestart](https://user-images.githubusercontent.com/46479976/83981189-04077f00-a91c-11ea-928f-0a91f3292683.jpg)
+![game2nd](https://user-images.githubusercontent.com/46479976/83981203-18e41280-a91c-11ea-9eb8-d52fd2769542.jpg)
+![game3rd](https://user-images.githubusercontent.com/46479976/83981206-21d4e400-a91c-11ea-8b18-b6a3014f87b8.jpg)
+![gameover](https://user-images.githubusercontent.com/46479976/83981211-2ac5b580-a91c-11ea-98b8-88a2ec667a17.jpg)
