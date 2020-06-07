@@ -5,11 +5,11 @@ A fan game sequel to the popular video game of 1980s - Blasteroids. The player c
 The game uses Allegro library v.5 (an open source game development library) which can be installed from https://sourceforge.net/projects/alleg/
 
 ## Game control
-The spaceship is controlled with keyboard:
-*up arrow* accelerate/move up
-*down arrow* decelerate (fast)
-*left arrow* rotate left
-*right arrow* rotate right
-*space bar* fire blast
-*do nothing* decelerate (slowly)
-*ESC* finish the game and close the GUI
+The spaceship is controlled with keyboard:<br/>
+*up arrow* accelerate/move up<br/>
+*down arrow* decelerate (fast)<br/>
+*left arrow* rotate left<br/>
+*right arrow* rotate right<br/>
+*space bar* fire blast<br/>
+*do nothing* decelerate (slowly)<br/>
+*ESC* finish the game and close the GUI<br/>
