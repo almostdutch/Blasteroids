@@ -1,0 +1,3 @@
+/home/vitaliy/Documents/programming/head_first_C/blasteroids/Blasteroids1/Blasteroids-master/build/CMakeFiles/rebuild_cache.dir
+/home/vitaliy/Documents/programming/head_first_C/blasteroids/Blasteroids1/Blasteroids-master/build/CMakeFiles/blasteroids.dir
+/home/vitaliy/Documents/programming/head_first_C/blasteroids/Blasteroids1/Blasteroids-master/build/CMakeFiles/edit_cache.dir
